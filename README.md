@@ -15,7 +15,7 @@
 
 <p align="center">
 <img  width=250 src="assets/videos/mobile.gif" />
-<img  width=250 src="screenshots/facebook-mobile.png" />
+<img  width=250 src="screenshots/facebook-mobile2.JPG" />
 <img  width=250 src="screenshots/facebook-mobile0.JPG" />
 </p>
 
