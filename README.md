@@ -6,17 +6,17 @@
 ## <p align='center'>Web Version with Flutter!</p>
 - ### This web version uses flutter.
 
+<p align="center"><img src="assets/videos/web.gif" /></p>
 
-
-![Web Screenshot](screenshots/web.png)
+![Web Screenshot](screenshots/facebook-mobile.png)
 
 ## <p align='center'>Mobile Version: Android | IOS</p>
 
 
+<p align="center"><img src="assets/videos/mobile.gif" /></p>
 
 
-
-![Mobile Screenshot 1](screenshots/mobile1.png)![Mobile Screenshot 2](screenshots/mobile2.png)
+![Mobile Screenshot 1](screenshots/mobile.png)
 
 ## <p align='center'>@luanbatistadev</p>
 
