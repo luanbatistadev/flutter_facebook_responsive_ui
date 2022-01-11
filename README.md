@@ -13,10 +13,10 @@
 ## <p align='center'>Mobile Version: Android | IOS</p>
 
 
-<p align="center"><img  width=250 src="assets/videos/mobile.gif" /></p>
+<p align="center"><img  width=250 src="assets/videos/mobile.gif" /></p><p align="center"><img  width=250 src="screenshots/facebook-mobile.png" /></p>
 
 
-![Mobile Screenshot 1](screenshots/facebook-mobile.png)
+![Mobile Screenshot 1]()
 
 ## <p align='center'>@luanbatistadev</p>
 
