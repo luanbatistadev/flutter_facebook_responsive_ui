@@ -36,6 +36,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   material_design_icons_flutter: ^5.0.6595
   cached_network_image: ^3.2.0
+  flutter_launcher_icons: "^0.9.2"
+
+flutter_icons:
+  image_path: "assets/icons/facebook.ico" 
+  android: true
+  ios: true
+  remove_alpha_ios: true
 
 dev_dependencies:
   flutter_test:
