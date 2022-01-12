@@ -8,7 +8,7 @@
 
 <p align="center"><img src="assets/videos/web.gif" /></p>
 
-![Web Screenshot](screenshots/facebook-web.png)
+![Web Screenshot](screenshots/web.JPG)
 
 ## <p align='center'>Mobile Version: Android | IOS</p>
 
